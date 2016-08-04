@@ -1,0 +1,37 @@
+_repo: The-American-Republic--Its-Constitution-Tendencies-and-Destiny_2053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brownson, Orestes Augustus
+    aliases:
+    - Brownson, Orestes A. (Orestes Augustus)
+    - Brownson, O. A. (Orestes Augustus)
+    birthdate: 1803
+    deathdate: 1876
+    gutenberg_agent_id: '802'
+    url: http://www.gutenberg.org/2009/agents/802
+    wikipedia: http://en.wikipedia.org/wiki/Orestes_Brownson
+description: ''
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1815-1861 -- Philosophy'
+- !lcsh 'Secession -- United States'
+- !lcc 'JK'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcsh 'Constitutional history -- United States'
+- GITenberg
+tableOfContents: 'Introduction -- Government -- Origin of government -- Origin of
+  government, continued -- Origin of government, continued -- Origin of government,
+  concluded -- Constitution of government -- Constitution of government, concluded
+  -- The United States -- Constitution of the United States -- The Constitution, continued
+  -- Secession -- Reconstruction -- Political tendencies -- Destiny: political and
+  religious.'
+title: 'The American Republic: Its Constitution, Tendencies, and Destiny'
+url: http://www.gutenberg.org/ebooks/2053
